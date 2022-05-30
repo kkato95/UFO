@@ -7,6 +7,7 @@ The purpose of this analysis is generate a dynamic webpage that allows the user 
 For the deliverable, we must create a web based filter using the html file, data.js and app.js. We are filtering on the date, city, state, country, and shape of object. We have created a function to loop through the dataset searching for criteria that match the search criteria.
 
 Filtering Criteria:
+
 ![image](https://user-images.githubusercontent.com/99375741/171054014-e8d9621c-a6b9-4d48-80ac-b6b388ba7f9b.png)
 
 To ensure the filtering function works on Dana's webpage, we filtered the state to "tx" and the shape to "light". Once we hit enter, we observe the two entires in Texas that were lights only.
